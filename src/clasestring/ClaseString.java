@@ -14,6 +14,8 @@ public class ClaseString {
    
     public static void main(String[] args) {
         
+        //Cambio x
+        
         String s = "diego.com";
       
         System.out.println("Tamaños: " + s.length());
